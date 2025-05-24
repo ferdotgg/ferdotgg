@@ -75,6 +75,15 @@ _Febrero 2023 - Mayo 2024_
 - 👥 Liderazgo de equipo frontend y mentorización técnica
 - ⚙️ Sistema de componentes modulares escalable
 
+### 🎰 **Gamanza Group AG** - Software Engineer II
+
+_Noviembre 2020 - Mayo 2023_
+
+- 🏢 Soluciones enterprise para industria de casinos online e iGaming
+- 🔧 Sistema CRM avanzado y plataforma de casino digital
+- 📊 "Campaign Flow": Sistema de marketing automation revolucionario
+- 🌍 Colaboración internacional (Costa Rica, Suiza, Eslovenia)
+
 ### 🏆 **Torneos.GG** - CIO & Co-Founder
 
 _Agosto 2018 - Marzo 2024_
@@ -97,7 +106,7 @@ _Agosto 2018 - Marzo 2024_
 
 ---
 
-## 🌟 Proyectos Destacados
+## 🌟 Algunos proyectos personales
 
 ### [🧠 BrainRot Animal Wiki](https://brainrotanimal.com)
 
