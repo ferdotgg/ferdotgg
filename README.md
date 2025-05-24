@@ -94,18 +94,6 @@ _Agosto 2018 - Marzo 2024_
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-  ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdotgg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdotgg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
 ## 🌟 Algunos proyectos personales
 
 ### [🧠 BrainRot Animal Wiki](https://brainrotanimal.com)
